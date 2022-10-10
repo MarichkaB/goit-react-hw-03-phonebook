@@ -1,0 +1,16 @@
+.form {
+    width: 450px;
+    padding: 15px;
+}
+
+.form_btn {
+    display: block;
+    padding: 8px 12px;
+    border: none;
+
+}
+
+.form_input {
+    display: block;
+    margin-bottom: 10px;
+}
